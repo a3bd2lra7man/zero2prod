@@ -1,4 +1,4 @@
 fn main() {
-    sdflkds
+    sdflkds;
     println!("Hello, world!");
 }
